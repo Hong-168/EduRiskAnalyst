@@ -1,32 +1,38 @@
-# Lab 01: First Streamlit App
+# EduRiskAnalyst
 
-## Project Theme
+## Lab 01: First Streamlit App
+
+### Project Theme
 
 EduRisk Analytics
 
-## Description
+### Description
 
 This is my first Streamlit web app.
 
-## Features
+### Features
 
 - Sidebar navigation
 - Student data table
 - Dashboard metrics
 
-## Tools Used
+### Tools Used
 
 - Python
 - Streamlit
 - Pandas
 - VS Code
 
-## How to Run
+### How to Run
 
+```bash
 streamlit run app.py
+```
 
-## Student Information
+### Student Information
 
 Name:
+
 Student ID:
+
 Class:
